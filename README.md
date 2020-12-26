@@ -8,7 +8,7 @@
      - Instagram: jay_nlper
      - [Linkedin](https://www.linkedin.com/in/jiewangcub/)
 - 😄 Pronouns: Jay Wang
-- ℹ️ I have a [personal webiste](http://blog.itworkonline.top/) and a [Youtube channel](https://www.youtube.com/channel/UCLeyszq3quKox7BlVDfL6vQ?view_as=subscriber)
+- ℹ️ I have a [personal webiste](http://blog.itworkonline.top/) and a [youtube channel](https://www.youtube.com/channel/UCLeyszq3quKox7BlVDfL6vQ?view_as=subscriber)
 - 📷 Here is my [photography website](https://unsplash.com/@itworkonline).  
 
 
