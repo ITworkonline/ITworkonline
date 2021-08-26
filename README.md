@@ -1,7 +1,7 @@
 ### Hi there. I am Jie Wang(Jay). 👋
 
-- 🔭 I’m currently working on sentence prediction website.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently working on Leetcode and coursework.
+- 🌱 Learning Spark.
 - 📫 How to reach me: 
      - Email: jiwa0171@colorado.edu, 1130172267@qq.com
      - Wechat: ITworkonline
