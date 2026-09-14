@@ -1,7 +1,7 @@
 ### Hi there. I am Jie Wang(Jay). 👋
 
-- 🔭 I’m currently working on IOS swiftUI and coursework.
-- 🌱 Learning Spark.
+- 🔭 I’m currently a Software Engineer.
+- 🌱 Learning agent team and robotic arms.
 - 📫 How to reach me: 
      - Email: jiewang0171@gmail.com
      - Wechat: ITworkonline
