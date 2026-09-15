@@ -1,4 +1,4 @@
-### Hi there. I am Jie Wang(Jay). 👋
+### Hi there. I am Jay. 👋
 
 - 🔭 I’m currently a Software Engineer.
 - 🌱 Learning agent team and robotic arms.
